@@ -1,4 +1,4 @@
-funcion entrar(){
+function entrar(){
     let nome=DocumentTimeline.getElementByld("nome").value;
 
     if(nome==""){
